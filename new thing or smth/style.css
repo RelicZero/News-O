@@ -1,0 +1,42 @@
+body, html{
+    scrollbar-width: none;
+    background-color: darkgray;
+}
+
+#Business{    
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.front{
+    width: 563px;
+    height: auto;
+}
+
+.titlee{
+    text-align: center;
+    height: 50px;
+}
+
+.card{
+    gap: 20px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgba(128, 128, 128, 0.41);
+    width: 563px;
+}
+
+.whereimg{
+    width: 80px;
+    height: auto;
+}
+
+.where{
+    text-align: center;
+}
